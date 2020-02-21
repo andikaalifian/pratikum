@@ -1,1 +1,2 @@
-
+ini file pemilik
+ini file kedua dari pemilik
